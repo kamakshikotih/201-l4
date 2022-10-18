@@ -9,16 +9,16 @@
     "prepare": "husky install",
     "precommit":"link-staged"
   },
-  "author": "",
+  "author": "kamakshikotih",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nithish1018/wd202-node.git"
+    "url": "git+https://github.com/kamakshikotih/201-l4-node.git"
   },
   "bugs": {
-    "url": "https://github.com/nithish1018/wd202-node/issues"
+    "url": "https://github.com/kamakshikotih/201-l4-node/issues"
   },
-  "homepage": "https://github.com/nithish1018/wd202-node#readme",
+  "homepage": "https://github.com/kamakshikotih/201-l4-node#readme",
   "dependencies": {
     "minimist": "^1.2.6"
   },
